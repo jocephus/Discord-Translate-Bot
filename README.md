@@ -16,7 +16,7 @@ Translate-Bot is a Discord bot that provides translation services for messages w
 You may use the Bot in accordance with these Terms for personal or non-commercial purposes. You may not use the Bot for any illegal or harmful activities. We reserve the right to suspend or terminate your access to the Bot if you violate these Terms.
 
 ## 4. Privacy Policy
-Our Privacy Policy governs the collection and use of information through the Bot. By using the Bot, you agree to the terms of our Privacy Policy, which can be found at [link to your privacy policy].
+Our Privacy Policy governs the collection and use of information through the Bot. By using the Bot, you agree to the terms of our Privacy Policy, which can be found at (https://github.com/jocephus/Discord-Translate-Bot/blob/main/Privacy_Policy.md).
 
 ## 5. Intellectual Property
 The Bot and all related content, including but not limited to text, graphics, images, and software, are the property of Joe Gray and The OSINTion and are protected by copyright, trademark, and other intellectual property laws. You may not reproduce, distribute, or modify any part of the Bot without our express written consent.
